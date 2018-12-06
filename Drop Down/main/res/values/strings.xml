@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppModel2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pan_number">PAN Number</string>
+    <string name="new_to_this_app">New to this app</string>
+    <string name="please_provide_few_details">Please Provide few Details</string>
+    <string name="user_type_info">User Type Info</string>
+    <string name="select_member_type">Select Member Type</string>
+    <string name="select_package">Select Package</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="address">Address</string>
+    <string name="landmark">Landmark</string>
+    <string name="select_state">Select State</string>
+    <string name="select_district">Select District</string>
+    <string name="zip">Zip</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="official_credentials">Official Credentials</string>
+    <string name="aadhar">Aadhar</string>
+    <string name="gst_number">GST Number</string>
+    <string name="login_info">Login Info</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="pin">PIN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="start_image">Start Image</string>
+    <string name="proceed_to_recharge">Proceed to Recharge</string>
+    <string name="proceed_to_pay_bill">Proceed to Pay Bill</string>
+    <string name="logout">Logout</string>
+    </resources>
